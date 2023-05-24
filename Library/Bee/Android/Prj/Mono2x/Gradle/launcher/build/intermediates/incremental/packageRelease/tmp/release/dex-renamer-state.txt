@@ -1,0 +1,4 @@
+#Wed May 24 15:07:14 ICT 2023
+base.0=/Users/ap24h.vn/CombatBattle/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
